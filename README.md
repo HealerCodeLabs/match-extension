@@ -15,7 +15,7 @@
 </p>
 
 <br/>
-
+ 
 ## ✨ Features
 
 - **Auto Swipe** — Automatically likes (or skips) profiles based on your filters
